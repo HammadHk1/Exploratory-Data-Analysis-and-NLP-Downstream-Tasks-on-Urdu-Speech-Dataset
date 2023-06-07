@@ -38,7 +38,7 @@ Put your Directories Path where you unzip your files inorder to make code work
 ```
 [https://visualstudio.microsoft.com/downloads/](https://code.visualstudio.com/download)
 ```
--Download the Urdu Speech dataset from the given GitHub link.
+- Download the Urdu Speech dataset from the given GitHub link.
 ```
 https://github.com/siddiquelatif/URDU-Dataset/tree/master
 ```
