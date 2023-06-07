@@ -30,8 +30,15 @@ We are given four Emotions Happy, Angry, Sad and Neutral in form of Audio files 
 
 ![image](https://github.com/HammadHk1/Exploratory-Data-Analysis-and-NLP-Downstream-Tasks-on-Urdu-Speech-Dataset/assets/117303560/f453f55d-e56f-4008-915d-5f54b70f8925)
 
+## Dataset
+Put your Directories Path where you unzip your files inorder to make code work
+
 ## Resources
 - Download VScode  from below link
 ```
 [https://visualstudio.microsoft.com/downloads/](https://code.visualstudio.com/download)
+```
+-Download the Urdu Speech dataset from the given GitHub link.
+```
+https://github.com/siddiquelatif/URDU-Dataset/tree/master
 ```
